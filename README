@@ -1,0 +1,6 @@
+List.java: An implementation of a List ADT.
+ListClient.java: A test client for List.
+Lex.java: A program which creates a separate list to effectively sort
+	  an input array using the List ADT.
+Makefile: Compiles the program and cleans the output.
+README: This file.
