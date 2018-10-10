@@ -1,0 +1,3 @@
+README: this file
+Makefile: compiles Search.java and cleans.
+Search.java: searches a file for given targets using mergeSort and binarySearch. Specifies what line they are on.
