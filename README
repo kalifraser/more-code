@@ -1,0 +1,6 @@
+List.c: List ADT for Lex.
+List.h: Header file for List ADT.
+Makefile: Makes the file and cleans the output.
+README: This file.
+ListClient.c: Test client for List.c.
+Lex.c: Program file sorting a List using List.c.
