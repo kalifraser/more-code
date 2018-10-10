@@ -1,0 +1,6 @@
+README: This file.
+Makefile: Compiles and checks program; cleans output.
+Dictionary.c: Searches a dictionary for keys and gives the values of those keys.
+DictionaryTest.c: Provides various tests of Dictionary.c.
+Dictionary.h: Contains the interface for the Dictionary ADT.
+DictionaryClient.c: Provides a more thorough test of Dictionary.c.
