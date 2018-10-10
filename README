@@ -1,0 +1,7 @@
+README: This file.
+DictionaryInterface.java: Interface for the Dictionary ADT.
+DuplicateKeyException.java: A runtime exception thrown when two keys match each other exactly.
+KeyNotFoundException.java: A runtime exception thrown when a key is not found.
+DictionaryClient.java: Client module for testing Dictionary ADT.
+Dictionary.java: Binary Search Tree implementation of the Dictionary ADT.
+Makefile: Makes the jar file and cleans output.
