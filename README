@@ -1,0 +1,6 @@
+README: This file.
+Dictionary.c: Creates a dictionary ADT using a hash table.
+Dictionary.h: Header file for the dictionary ADT.
+DictionaryTest.c: Performs various tests on Dictionary.c.
+DictionaryClient.c: A test client for the dictionary ADT.
+Makefile: Makes jar file and cleans output.
