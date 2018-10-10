@@ -1,0 +1,3 @@
+README: This file.
+Makefile: Makes and cleans output.
+charType.c: C program that takes an input file and outputs a character-by-character analysis of the file.
